@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <i>Muhammad Ali</i> 🚀 (Founder Of Brostechnology)</h1>
 <h3 align="center">A Student | Mentor | Full Stacks Developer | React.js | Vue.js</h3>
 
-<p align="left"> <img src="![Alt text](image/muhammad%20ali%20.jpg)" alt="umargit" /> </p>
+<p align="left"> <img src="![Alt text](image/muhammad%20ali%20.jpg)" alt="muhammadali" /> </p>
 
 - 🔭 I’m currently working on **Syndrect**
 
